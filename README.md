@@ -1,3 +1,5 @@
+https://dacade.org/communities/celo-development-101/chapters/6bfd78c3-05b5-4074-921b-3375cdd74ede
+
 # Install
 
 ```
@@ -35,4 +37,3 @@ npm run build
 3. Go to [https://celo.org/developers/faucet](https://celo.org/developers/faucet) and get tokens for the alfajores testnet.
 4. Switch to the alfajores testnet in the CeloExtensionWallet.
 
-https://dacade.org/communities/celo-development-101/chapters/6bfd78c3-05b5-4074-921b-3375cdd74ede
